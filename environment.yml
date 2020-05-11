@@ -13,7 +13,7 @@ dependencies:
   - pip:
       - jupyter-server-proxy
       - nbserverproxy
-      - wget=3.2
+      - wget==3.2
       - folium==0.10.0
       - rio-l8qa==0.1.1
       - landsat578==0.4.9
