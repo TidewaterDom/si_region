@@ -7,7 +7,6 @@ dependencies:
   - glob2
   - numpy
   - requests
-  - pathlib
   - rasterio
   - scikit-learn
   - scikit-image
