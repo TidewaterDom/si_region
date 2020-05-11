@@ -1,6 +1,7 @@
 name: test environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - geopandas=0.6.2
   - pandas=0.24.2
