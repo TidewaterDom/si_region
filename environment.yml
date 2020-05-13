@@ -14,7 +14,6 @@ dependencies:
   - pip
   - matplotlib
   - descartes
-  - datashader
   - pip:
       - jupyter-server-proxy
       - nbserverproxy
