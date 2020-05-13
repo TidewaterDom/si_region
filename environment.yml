@@ -13,6 +13,7 @@ dependencies:
   - gdal
   - pip
   - matplotlib
+  - descartes
   - pip:
       - jupyter-server-proxy
       - nbserverproxy
