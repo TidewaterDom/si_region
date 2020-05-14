@@ -10,7 +10,6 @@ dependencies:
   - rasterio
   - scikit-learn
   - scikit-image
-  - gdal
   - pip
   - matplotlib
   - descartes
