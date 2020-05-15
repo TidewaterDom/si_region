@@ -8,6 +8,7 @@ dependencies:
   - numpy
   - requests
   - rasterio
+  - gdal=2.3.3
   - scikit-learn
   - scikit-image
   - pip
