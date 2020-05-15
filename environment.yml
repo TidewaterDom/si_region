@@ -7,7 +7,7 @@ dependencies:
   - glob2
   - numpy
   - requests
-  - rasterio
+  - rasterio=1.0.21
   - scikit-learn
   - scikit-image
   - pip
