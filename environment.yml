@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.7
   - rasterio
-  - geopandas
+  - geopandas=0.6.1
   - gdal
   - glob2
   - numpy
