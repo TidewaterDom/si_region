@@ -3,11 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
-  - geopandas
+  - geopandas=0.6.2
   - glob2
   - numpy
   - requests
-  - rasterio=1.0.21
+  - rasterio
   - scikit-learn
   - scikit-image
   - pip
