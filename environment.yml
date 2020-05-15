@@ -2,10 +2,10 @@ name: environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
-  - rasterio
-  - geopandas
-  - gdal
+  - python=3.7
+  - rasterio=1.0.21
+  - geopandas=0.6.1
+  - gdal=2.3.3
   - glob2
   - numpy
   - requests
