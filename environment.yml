@@ -3,11 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7
-  - rasterio=1.0.21
+  - rasterio
   - geopandas=0.6.1
-  - gdal=2.3.3
-  - libgdal=2.3.3
-  - fiona=1.8.4
+  - gdal
   - glob2
   - numpy
   - requests
