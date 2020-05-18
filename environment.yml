@@ -22,4 +22,4 @@ dependencies:
       - folium==0.10.0
       - rio-l8qa==0.1.1
       - landsat578==0.4.9
-      - fonttools
+      - pyplotz
